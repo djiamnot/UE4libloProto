@@ -1,0 +1,3 @@
+* UE4libloProto
+
+A little prototype/example of implementing OSC functionality using liblo in UE4 blueprints.
